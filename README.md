@@ -1,4 +1,4 @@
-[![Build Status](https://secplayground.visualstudio.com/Fabrikam/_apis/build/status/Sawengchuan.pipelines-dotnet-core?branchName=master)](https://secplayground.visualstudio.com/Fabrikam/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://secplayground.visualstudio.com/Fabrikam/_apis/build/status/Sawengchuan.pipelines-dotnet-core?branchName=master)]
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
